@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+html{
+    min-width: 800px;
+}
+
 body{
     background: #f9f9f9;
     font-family: Play, Helvetica, sans-serif;
